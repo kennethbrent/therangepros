@@ -1,0 +1,38 @@
+body{
+    margin-top: 3em;
+}
+
+.logo p {
+    font-size: 20px;
+    max-width: 70%;
+    margin: auto;
+    font-family: 'Cinzel', serif;
+}
+
+.logo {
+    text-align: center;
+}
+
+.red_border {
+    height: 3px;
+    background: red;
+    width: 60px;
+    margin: auto;
+}
+
+.warning {
+    background: #d8d8d8;
+    max-width: 60%;
+    margin: 1em auto;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    color: #474747
+}
+
+.fa-wrench {
+    color: #474747;
+    font-size: 40px;
+}
